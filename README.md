@@ -1,0 +1,1 @@
+### This is a google keep clone that is hosted on Internet Computer's blockchain. The frontend is written within React framework and the backend is written in Motoko.
